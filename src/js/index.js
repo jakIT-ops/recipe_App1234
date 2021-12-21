@@ -6,4 +6,4 @@ let myFunc = a => {
 
 const arr2 = [...arr, 44, 1223];
 
-myFunc(arr2[1])
+myFunc(arr2[1]) 
